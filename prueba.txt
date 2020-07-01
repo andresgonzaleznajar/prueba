@@ -4,3 +4,6 @@ mundo
 graficas
 por 
 computadoras
+octavo
+semestre
+IC
